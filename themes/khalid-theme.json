@@ -1896,7 +1896,10 @@
     },
     {
       "scope": ["support.class", "support.type", "entity.name.type"],
-      "settings": {}
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#7DBEFF"
+      }
     },
     {
       "scope": "token.info-token",
