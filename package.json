@@ -1,0 +1,21 @@
+{
+  "name": "khalid-theme",
+  "displayName": "khalid-theme",
+  "description": "A color scheme similar to the JetBrains Fleet default theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Khalid Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/khalid-theme.json"
+      }
+    ]
+  }
+}
